@@ -1,6 +1,6 @@
 #POSTWORKS DE LAS SESIONES DE R
-##By Víctor Manuel Medina Ibarra
-En el siguiente repositorio encuentran mis Postworks de las sesiones de estadistica en R:
+#By Víctor Manuel Medina Ibarra
+#En el siguiente repositorio encuentran mis Postworks de las sesiones de estadistica en R:
 
   -Postwork_S1.R
   -Postwork_S2.R
