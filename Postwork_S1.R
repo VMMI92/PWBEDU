@@ -1,8 +1,7 @@
 #Se asigna el archivo csv a la variable SP1
-setwd(dir = "C:/Users/victo/OneDrive/Escritorio/Bedu/Fase 2/Sesion 1/")
 library(dplyr)
 library(readr)
-SP1 <- read_csv("SP1.csv", col_types = cols(Date = col_date(format = "%d/%m/%Y"), 
+SP1 <- read_csv("https://www.football-data.co.uk/mmz4281/1920/SP1.csv", col_types = cols(Date = col_date(format = "%d/%m/%Y"), 
                                                      Time = col_time(format = "%H:%M")))
 
 #Extraemos los vectores que nos interesan
